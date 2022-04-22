@@ -1,0 +1,14 @@
+{
+  "name": "glb-compress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/takatsutaichi/glb-compress.git",
+  "author": "takatsutaichi",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.1",
+    "gltf-pipeline": "^3.0.4",
+    "path": "^0.12.7"
+  }
+}
